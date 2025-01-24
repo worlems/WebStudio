@@ -57,7 +57,7 @@ img {
   margin-right: auto;
 }
 
-/* Header */
+/*#region Header */
 .header {
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
@@ -162,9 +162,9 @@ img {
 .header-link-adress:focus {
   color: #404bbf;
 }
-/* /Header */
+/*#endregion Header */
 
-/* Hero */
+/*#region Hero */
 .hero {
   background-color: #2e2f42;
   padding-top: 188px;
@@ -220,9 +220,9 @@ img {
   background-color: #404bbf;
   transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-/* /Hero */
+/*#endregion Hero */
 
-/* Feature */
+/*#region Feature */
 .feature-section {
   padding: 120px 0;
 }
@@ -258,9 +258,9 @@ img {
 }
 .feature-svg {
 }
-/* /Feature */
+/*#endregion Feature */
 
-/* Team */
+/*#region Team */
 .team {
   background-color: #f4f4fd;
   padding: 120px 0;
@@ -335,8 +335,8 @@ img {
   text-align: center;
   color: #434455;
 }
-
-/*  */
+/*#endregion Team */
+/* #region Portfolio */
 .portfolio-section {
   padding: 120px 0;
 }
@@ -415,10 +415,9 @@ img {
   transform: translateY(100%);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+/* #endregion Portfolio */
 
-/* /Team */
-
-/* Footer */
+/*#region Footer */
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
@@ -528,6 +527,7 @@ img {
   fill: rgba(255, 255, 255, 1);
   margin-left: 16px;
 }
+/* #endregion Footer */
 /* #region Modal */
 .modal-svg {
   fill: #2e2f42;
