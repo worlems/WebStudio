@@ -4,7 +4,7 @@ This is a **training project** created as part of the **HTML+CSS course** at [Go
 It is a responsive multi-page website with semantic markup and a modal window.
 
 ## 🚀 Demo
-[View on GitHub Pages](https://worlems.github.io/goit-markup-hw-06/) <!-- replace with your deployed link -->
+[View on GitHub Pages](worlems.github.io/WebStudio/) <!-- replace with your deployed link -->
 
 ## 📌 Features
 - Fully **responsive layout** for mobile, tablet, and desktop.  
